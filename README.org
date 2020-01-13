@@ -1,0 +1,11 @@
+This repository holds all of my work for Ph22 at Caltech. Each set's work
+should all be contained within its own directory.
+
+The .pdf file should be the final output for each set. My python setup comes
+bundled in with emacs org mode. This is similar to what ipython notebooks
+use. Code blocks themselves are embedded within the document and sent to an
+existing ipython kernel process when evaluated. The blocks can be inputted
+different headers depending on desired code language and data output
+format. Org also includes LaTeX generation and automatically compiles/exports
+code, latex, and images to pdf format. So, any coding I do happens inside these
+.org files (or in some cases, outside .py scripts).
